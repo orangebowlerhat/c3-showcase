@@ -9,15 +9,15 @@ shows when this was last added or bumped. Consider this a "last updated" date.
 
 ### Learning resources
 
-📖 [Ebn's C3 tutorials](https://ebn.codeberg.page/programming/c3/) - from Hello World to setting up OpenGL *bumped 2025-04-17*.
+📖 [Ebn's C3 tutorials](https://ebn.codeberg.page/programming/c3/) - from Hello World to setting up OpenGL *[bumped 2025-04-17]*
 
 ### Libraries
 
-📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *bumped 2025-04-17*.
+📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
 ### Applications
 
-⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *bumped 2025-04-17*.
+⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
 
 ## Contribute!
 
