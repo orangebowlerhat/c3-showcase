@@ -5,7 +5,9 @@ This repository keeps a list of various C3 resources and projects.
 *NOTE* these are all in various levels of completion, from actively supported to just started or abandoned. The "bumped" date,
 shows when this was last added or bumped. Consider this a "last updated" date.
 
-**These projects are not officially endorsed and should be understood to simply to help the C3 community find resources.**
+If you have something you feel could be interesting to share with the rest of the community, do file a pull request!
+
+***NOTE: These projects and resources are not officially endorsed by the C3 Project.***
 
 ### Learning resources
 
