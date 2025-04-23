@@ -26,7 +26,6 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [Small networking library](https://github.com/ygorpontelo/c3-server-lib) - library that aims to add an async server and client implementation to c3 *[bumped 2025-04-22]*
 
 
-
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
@@ -34,6 +33,10 @@ If you have something you feel could be interesting to share with the rest of th
 ### Games
 
 👾 [Boing](https://github.com/tekin-tontu/boing) - BOING (pong) port of python game to C3 *[bumped 2025-04-22]*
+
+## Utilities
+
+📁 [pyramid](https://github.com/orangebowlerhat/pyramid) - Linux command line program to generate c3 bindings from GNOME typelib files *[bumped 2025-04-23]*
 
 ## Contribute!
 
